@@ -2,8 +2,8 @@
 <p align="center">
     <a href="https://twitter.com/FedeCoelhoV" target="blank"><img alt="Twitter" src="https://img.shields.io/badge/-@FedeCoelhoV-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/></a>
     <img alt="Gmail" src="https://img.shields.io/badge/-fcoelhovazquez@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/>
-    <img alt="Discord" src="https://img.shields.io/badge/-Santer%233478-7289DA?style=flat&logo=discord&logoColor=white"/>
-    <a href="https://steamcommunity.com/id/SanterZ/" target="blank"><img alt="Steam" src="https://img.shields.io/badge/-SanterZ-000000?style=flat&logo=steam&logoColor=white"/></a>
+    <img alt="Discord" src="https://img.shields.io/badge/-Santer%233478-7289DA?style=flat-square&logo=discord&logoColor=white"/>
+    <a href="https://steamcommunity.com/id/SanterZ/" target="blank"><img alt="Steam" src="https://img.shields.io/badge/-SanterZ-000000?style=flat-square&logo=steam&logoColor=white"/></a>
 </p>
 
 <h2>💻 Some tools I code with</h2>
