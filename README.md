@@ -21,11 +21,14 @@
         <img alt="SQLite3" src="https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white"/>
         <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white"/>
         <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"/>
+        <img alt="Windows" src="https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white"/>
+        <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
     </p>
     <h3>📝 Code editor and IDE</h3>
     <p>
     <img alt="VisualStudio" src="https://cutt.ly/vgNvlS9"/>
     <img alt="VisualStudioCode" src="https://bit.ly/36t1Mlt"/>
+    <img alt="SublimeText" src="https://bit.ly/3ls5VfF"/>
     </p>
 
 <!--
