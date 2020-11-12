@@ -22,7 +22,7 @@
         <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white"/>
         <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"/>
     </p>
-    <h3>📝 Code editor or IDE</h3>
+    <h3>📝 Code editor and IDE</h3>
     <p>
     <img alt="VisualStudio" src="https://cutt.ly/vgNvlS9"/>
     <img alt="VisualStudioCode" src="https://bit.ly/36t1Mlt"/>
