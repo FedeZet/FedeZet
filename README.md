@@ -1,7 +1,7 @@
 <h1>Hi world, I'm Federico <img src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif?1547582922" width="40"/></h1>
 
 <h2>💻 Some tools I code with</h2>
-    <h3>Languages</h3>
+    <h3>👨‍💻 Languages</h3>
     <p>
         <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
         <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
