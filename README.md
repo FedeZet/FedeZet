@@ -1,6 +1,6 @@
 <h1>Hi world, I'm Federico <img src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif?1547582922" width="40"/></h1>
 <p align="center">
-    <img alt="Twitter" src="https://img.shields.io/badge/-@FedeCoelhoV-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/FedeCoelhoV"/>
+    <img alt="Twitter" src="https://img.shields.io/badge/-@FedeCoelhoV-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/>
     <img alt="Gmail" src="https://img.shields.io/badge/-fcoelhovazquez@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/>
 </p>
 
