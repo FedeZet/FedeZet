@@ -70,4 +70,33 @@ Here are some ideas to get you started:
             </tr>
         </tbody>
     </table>
+
+    <h3>🏆 Open Source Projects</h3>
+    <table>
+        <thead align="center">
+            <tr border: none;>
+                <td><b>🎁 Projects</b></td>
+                <td><b>⭐ Stars</b></td>
+                <td><b>📚 Forks</b></td>
+                <td><b>🛎 Issues</b></td>
+                <td><b>📬 Pull requests</b></td>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><a href="URL"><b>Name Project</b></a></td>
+                <td><img alt="Stars" src="https://img.shields.io/github/stars/fedezet/name-project?style=flat-square"/></td>
+                <td><img alt="Forks" src="https://img.shields.io/github/forks/fedezet/name-project?style=flat-square"/></td>
+                <td><img alt="Issues" src="https://img.shields.io/github/issues/fedezet/name-project?style=flat-square"/></td>
+                <td><img alt="PullRequest" src="https://img.shields.io/github/issues-pr/fedezet/name-project?style=flat-square"/></td>
+            </tr>
+            <tr>
+                <td><a href="URL"><b>Name Project</b></a></td>
+                <td><img alt="Stars" src="https://img.shields.io/github/stars/fedezet/name-project?style=flat-square"/></td>
+                <td><img alt="Forks" src="https://img.shields.io/github/forks/fedezet/name-project?style=flat-square"/></td>
+                <td><img alt="Issues" src="https://img.shields.io/github/issues/fedezet/name-project?style=flat-square"/></td>
+                <td><img alt="PullRequest" src="https://img.shields.io/github/issues-pr/fedezet/name-project?style=flat-square"/></td>
+            </tr>
+        </tbody>
+    </table>
   -->
