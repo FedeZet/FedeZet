@@ -48,7 +48,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-    <h3>🏆 Achievements</h3>
+<details>
+    <summary><b>🏆 Achievements</b></summary>
     <table>
         <thead align="center">
             <tr border: none;>
@@ -70,8 +71,11 @@ Here are some ideas to get you started:
             </tr>
         </tbody>
     </table>
-
-    <h3>🏆 Open Source Projects</h3>
+</details>
+    
+<details>
+    <summary><b>🏆 Open Source Projects</b></summary>
+    <br />
     <table>
         <thead align="center">
             <tr border: none;>
@@ -79,7 +83,7 @@ Here are some ideas to get you started:
                 <td><b>⭐ Stars</b></td>
                 <td><b>📚 Forks</b></td>
                 <td><b>🛎 Issues</b></td>
-                <td><b>📬 Pull requests</b></td>
+                <td><b>📬 Pull Requests</b></td>
             </tr>
         </thead>
         <tbody>
@@ -99,4 +103,6 @@ Here are some ideas to get you started:
             </tr>
         </tbody>
     </table>
+</details>
+
   -->
