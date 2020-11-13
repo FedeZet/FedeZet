@@ -72,7 +72,7 @@ Here are some ideas to get you started:
         </tbody>
     </table>
 </details>
-    
+
 <details>
     <summary><b>🏆 Open Source Projects</b></summary>
     <br />
@@ -84,6 +84,7 @@ Here are some ideas to get you started:
                 <td><b>📚 Forks</b></td>
                 <td><b>🛎 Issues</b></td>
                 <td><b>📬 Pull Requests</b></td>
+                <td><b>👨🏻‍💻 Languages</b></td>
             </tr>
         </thead>
         <tbody>
@@ -93,6 +94,7 @@ Here are some ideas to get you started:
                 <td><img alt="Forks" src="https://img.shields.io/github/forks/fedezet/name-project?style=flat-square"/></td>
                 <td><img alt="Issues" src="https://img.shields.io/github/issues/fedezet/name-project?style=flat-square"/></td>
                 <td><img alt="PullRequest" src="https://img.shields.io/github/issues-pr/fedezet/name-project?style=flat-square"/></td>
+                <td><img alt="Languages" src="https://img.shields.io/github/languages/fedezet/name-project?style=flat-square"/></td>
             </tr>
             <tr>
                 <td><a href="URL"><b>Name Project</b></a></td>
@@ -100,9 +102,10 @@ Here are some ideas to get you started:
                 <td><img alt="Forks" src="https://img.shields.io/github/forks/fedezet/name-project?style=flat-square"/></td>
                 <td><img alt="Issues" src="https://img.shields.io/github/issues/fedezet/name-project?style=flat-square"/></td>
                 <td><img alt="PullRequest" src="https://img.shields.io/github/issues-pr/fedezet/name-project?style=flat-square"/></td>
+                <td><img alt="Languages" src="https://img.shields.io/github/languages/fedezet/name-project?style=flat-square"/></td>
             </tr>
         </tbody>
     </table>
 </details>
 
-  -->
+    -->
