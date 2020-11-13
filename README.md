@@ -47,4 +47,27 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+    <h3>🏆 Achievements</h3>
+    <table>
+        <thead align="center">
+            <tr border: none;>
+                <td><b>🎉 Events</b></td>
+                <td><b>📦 Projects</b></td>
+                <td><b>🏅 Places</b></td>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><b>Name Events</b></td>
+                <td><a href="URL"><b>Name Project</b></a></td>
+                <td><b>Place</b></td>
+            </tr>
+            <tr>
+                <td><b>Name Events</b></td>
+                <td><a href="URL"><b>Name Project</b></a></td>
+                <td><b>Place</b></td>
+            </tr>
+        </tbody>
+    </table>
   -->
