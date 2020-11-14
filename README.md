@@ -84,25 +84,22 @@ Here are some ideas to get you started:
                 <td><b>📚 Forks</b></td>
                 <td><b>🛎 Issues</b></td>
                 <td><b>📬 Pull Requests</b></td>
-                <td><b>👨🏻‍💻 Languages</b></td>
             </tr>
         </thead>
         <tbody>
             <tr>
-                <td><a href="URL"><b>Name Project</b></a></td>
-                <td><img alt="Stars" src="https://img.shields.io/github/stars/fedezet/name-project?style=flat-square"/></td>
-                <td><img alt="Forks" src="https://img.shields.io/github/forks/fedezet/name-project?style=flat-square"/></td>
-                <td><img alt="Issues" src="https://img.shields.io/github/issues/fedezet/name-project?style=flat-square"/></td>
-                <td><img alt="PullRequest" src="https://img.shields.io/github/issues-pr/fedezet/name-project?style=flat-square"/></td>
-                <td><img alt="Languages" src="https://img.shields.io/github/languages/fedezet/name-project?style=flat-square"/></td>
+                <td><a href="URL"><img alt="Projects" src= "https://img.shields.io/badge/-NameProject-000000?style=flat&logo=github"/></a></td>
+                <td><img alt="Stars" src="https://img.shields.io/github/stars/fedezet/name-project?style=flat&logo=github"/></td>
+                <td><img alt="Forks" src="https://img.shields.io/github/forks/fedezet/name-project?style=flat&logo=github"/></td>
+                <td><img alt="Issues" src="https://img.shields.io/github/issues/fedezet/name-project?style=flat&logo=github"/></td>
+                <td><img alt="PullRequest" src="https://img.shields.io/github/issues-pr/fedezet/name-project?style=flat&logo=github"/></td>
             </tr>
             <tr>
-                <td><a href="URL"><b>Name Project</b></a></td>
-                <td><img alt="Stars" src="https://img.shields.io/github/stars/fedezet/name-project?style=flat-square"/></td>
-                <td><img alt="Forks" src="https://img.shields.io/github/forks/fedezet/name-project?style=flat-square"/></td>
-                <td><img alt="Issues" src="https://img.shields.io/github/issues/fedezet/name-project?style=flat-square"/></td>
-                <td><img alt="PullRequest" src="https://img.shields.io/github/issues-pr/fedezet/name-project?style=flat-square"/></td>
-                <td><img alt="Languages" src="https://img.shields.io/github/languages/fedezet/name-project?style=flat-square"/></td>
+                <td><a href="URL"><img alt="Projects" src= "https://img.shields.io/badge/-NameProject-000000?style=flat&logo=github"/></a></td>
+                <td><img alt="Stars" src="https://img.shields.io/github/stars/fedezet/name-project?style=flat&logo=github"/></td>
+                <td><img alt="Forks" src="https://img.shields.io/github/forks/fedezet/name-project?style=flat&logo=github"/></td>
+                <td><img alt="Issues" src="https://img.shields.io/github/issues/fedezet/name-project?style=flat&logo=github"/></td>
+                <td><img alt="PullRequest" src="https://img.shields.io/github/issues-pr/fedezet/name-project?style=flat&logo=github"/></td>
             </tr>
         </tbody>
     </table>
