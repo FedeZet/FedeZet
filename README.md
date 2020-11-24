@@ -10,8 +10,8 @@
 <h2>💻 Some tools I code with</h2>
     <h3>👨‍💻 Languages</h3>
     <p>
-        <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-        <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+        <!-- <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+        <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"/> -->
         <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
         <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white"/>
         <img alt="VisualBasic" src="https://cutt.ly/ogNll57"/>
