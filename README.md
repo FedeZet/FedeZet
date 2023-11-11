@@ -2,40 +2,40 @@
 <h4>I'm student, developer and tester from Uruguay 🇺🇾️</h4>
 <p align="center">
     <!-- <a href="https://twitter.com/FedeCoelhoV" target="blank"><img alt="Twitter" src="https://img.shields.io/badge/-@FedeCoelhoV-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/></a> -->
-    <img alt="Gmail" src="https://img.shields.io/badge/-fcoelhovazquez@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/>
-    <img alt="Discord" src="https://img.shields.io/badge/-Santer%233478-7289DA?style=flat-square&logo=discord&logoColor=white"/>
-    <a href="https://steamcommunity.com/id/SanterZ/" target="blank"><img alt="Steam" src="https://img.shields.io/badge/-SanterZ-000000?style=flat-square&logo=steam&logoColor=white"/></a>
+    <img alt="Gmail" src="https://img.shields.io/badge/-fcoelhovazquez@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img alt="Discord" src="https://img.shields.io/badge/-Santer%233478-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+    <a href="https://steamcommunity.com/id/SanterZ/" target="blank"><img alt="Steam" src="https://img.shields.io/badge/-SanterZ-000000?style=for-the-badge&logo=steam&logoColor=white"/></a>
 </p>
 
 <h2>💻 Some tools I code with</h2>
     <h3>👨‍💻 Languages</h3>
     <p>
-        <!-- <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-        <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"/> -->
-        <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+        <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+        <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+        <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
         <!-- <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white" -->
-        <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white"/>
-        <img alt="VisualBasic" src="https://cutt.ly/ogNll57"/>
+        <img alt="VisualBasic" src="https://img.shields.io/badge/-Visual%20Basic-512BD4?style=for-the-badge&logo=visualbasic&logoColor=white"/>
     </p>
     <h3>🧰 Tools</h3>
     <p>
-        <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-339933?style=flat&logo=node.js&logoColor=white"/>
-        <img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=NPM&logoColor=white"/>
-        <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-        <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
-        <img alt="SQLite3" src="https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white"/>
-        <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white"/>
-        <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"/>
-        <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+        <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+        <img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=NPM&logoColor=white"/>
+        <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+        <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+        <img alt="SQLite3" src="https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+        <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+        <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
     </p>
     <h3>📝 Code editor and IDE</h3>
     <p>
-        <img alt="VisualStudioCode" src="https://bit.ly/36t1Mlt"/>
+        <img alt="VSCode" src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+        <img alt="Vim" src="https://img.shields.io/badge/-Vim-019733?style=for-the-badge&logo=vim&logoColor=white"/>
     </p>
     <h3>💽 Operating Systems</h3>
     <p>
-        <img alt="Windows" src="https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white"/>
-        <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
+        <img alt="Windows" src="https://img.shields.io/badge/-Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white"/>
+        <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
     </p>
 
 <!--
