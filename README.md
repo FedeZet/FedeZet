@@ -1,7 +1,7 @@
 # Hey There!, I'm Fede 🖖
 A programming and tech enthusiast from Uruguay :uruguay:. I'm passionate about software development, especially in web development and backend. I'm always open to collaboration and eager to learn new things.
 <p align="center">
-    <a href="https://www.linkedin.com/in/federicocoelho" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/-Federico%20Coelho-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/federicocoelho" target="_blank" rel="noreferrer noopener"><img alt="Linkedin" src="https://img.shields.io/badge/-Federico%20Coelho-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <a href="mailto:fcoelhovazquez@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-fcoelhovazquez@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
     <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-santerzet-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
     <a href="https://steamcommunity.com/id/SanterZ/" target="_blank"><img alt="Steam" src="https://img.shields.io/badge/-SanterZ-000000?style=for-the-badge&logo=steam&logoColor=white"/></a>
