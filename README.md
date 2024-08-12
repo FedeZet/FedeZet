@@ -27,3 +27,7 @@ A programming and tech enthusiast from Uruguay :uruguay:. I'm passionate about s
     <a href="#"><img src="https://skillicons.dev/icons?i=windows" /></a>
     <a href="#"><img src="https://skillicons.dev/icons?i=linux" /></a>
 </p>
+
+### 🐙 GitHub Stats
+<a href="#">![Github stats](https://github-readme-stats-fedezets-projects.vercel.app/api?username=fedezet&theme=dracula&show_icons=true&count_private=true&hide_border=true&line_height=20)</a>
+<a href="#">![Top Langs](https://github-readme-stats-fedezets-projects.vercel.app/api/top-langs/?username=fedezet&layout=compact&theme=dracula&count_private=true&hide_border=true)</a>
