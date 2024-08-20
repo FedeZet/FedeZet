@@ -11,8 +11,9 @@ A programming and tech enthusiast from Uruguay :uruguay:. I'm passionate about s
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" /></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" /></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" /></a>
-    <a href="https://www.java.com/en/" target="_blank"><img src="https://skillicons.dev/icons?i=java" /></a>
     <a href="https://nodejs.org/en" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" /></a>
+    <a href="https://www.java.com/en/" target="_blank"><img src="https://skillicons.dev/icons?i=java" /></a>
+    <a href="https://spring.io/" target="_blank"><img src="https://skillicons.dev/icons?i=spring" /></a>
     <a href="https://discord.js.org/" target="_blank"><img src="https://skillicons.dev/icons?i=discordjs" /></a>
     <a href="#"><img src="https://skillicons.dev/icons?i=bots" /></a>
     <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" /></a>
